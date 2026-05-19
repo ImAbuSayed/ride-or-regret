@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ride-or-regret/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ride or Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ride-or-regret/) |
+| **Get License** | [Commercial Licensing for Ride or Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ride-or-regret/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਕਾਲੀ ਰਾਤ ਦੀਆਂ ਛਾਵਾਂ ਵਿੱਚ shining bright
+> ਮੈਂ ਤੈਨੂੰ ਤੱਕਦਾ ਹਾਂ in the night
+> ਸਾਹਾਂ ਦੀ ਗਰਮੀ ਨਾਲ feel the heat
+> ਤੇਰੇ ਬਿਨਾਂ ਮੇਰੀ ਜਾਨ incomplete
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
