@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ride-or-regret/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ride or Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ride-or-regret/) |
+| **Get License** | [Get a Licensing Quote for Ride or Regret](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ride-or-regret/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5b44e7091ded34d75f8d124d6ae48786e3a83d4f9a16f8343b53e376867fc7d2` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

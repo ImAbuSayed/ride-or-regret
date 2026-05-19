@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ride or Regret
+
+This log tracks the cryptographic history and versioning for the song **Ride or Regret** (ride-or-regret).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T23:57:34.293884 | `v1` | `5b44e7091ded34d75f8d124d6ae48786e3a83d4f9a16f8343b53e376867fc7d2` | `0180f01a81d876b6aab41a6d3e2851ac60197cebaf3b79a6caa2d88d643e360b` | `2026-05-19_ride-or-regret-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
